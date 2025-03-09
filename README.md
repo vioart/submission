@@ -29,12 +29,12 @@ Proyek ini berfokus pada analisis Bike Sharing Dataset untuk memperoleh wawasan 
     pip install -r requirements.txt
     ```
 
-## Penggunaan
+## Running Dashboard
 1. Masuk ke direktori proyek (Local):
 
     ```shell
     cd submission/dashboard/
     streamlit run dashboard.py
     ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics]()
+    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://submission-vioart.streamlit.app/)
 "# submission" 
