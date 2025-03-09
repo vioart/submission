@@ -37,4 +37,3 @@ Proyek ini berfokus pada analisis Bike Sharing Dataset untuk memperoleh wawasan 
     streamlit run dashboard.py
     ```
     Atau bisa dengan kunjungi website ini [Project Data Analytics](https://submission-vioart.streamlit.app/)
-"# submission" 
