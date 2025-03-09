@@ -1,8 +1,8 @@
 # Submission Dicoding "Belajar Analisis Data dengan Python"
 
-## Project Analisis Data
+## Project Analisis Data <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit"></img>
 
-Repository ini berisi proyek data analytics yang saya kembangkan untuk menganalisis Bike Sharing Dataset. Proyek ini mencakup eksplorasi data, visualisasi, serta pembuatan dashboard interaktif. Hasil analisis dan visualisasi data telah dideploy menggunakan Streamlit **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit"></img>
+Repository ini berisi proyek data analytics yang saya kembangkan untuk menganalisis Bike Sharing Dataset. Proyek ini mencakup eksplorasi data, visualisasi, serta pembuatan dashboard interaktif. Hasil analisis dan visualisasi data telah dideploy menggunakan **Streamlit** 
 
 ## Deskripsi
 
